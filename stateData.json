@@ -1,0 +1,27 @@
+[
+  {
+    "name": "California",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_California.svg",
+    "population": 39538223
+  },
+  {
+    "name": "Texas",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Texas.svg",
+    "population": 29145505
+  },
+  {
+    "name": "Florida",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg",
+    "population": 21538187
+  },
+  {
+    "name": "New York",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_New_York.svg",
+    "population": 20201249
+  },
+  {
+    "name": "Pennsylvania",
+    "flagImage": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Pennsylvania.svg",
+    "population": 13002700
+  }
+]

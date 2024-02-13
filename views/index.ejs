@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>US States</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <label for="minPopulation">Min Population:</label>
+  <input type="number" id="minPopulation" name="minPopulation" value="0">
+  <label for="maxPopulation">Max Population:</label>
+  <input type="number" id="maxPopulation" name="maxPopulation" value="40000000">
+  <select name="sortOrder" id="sortOrder">
+    <option value="desc">Descending Population</option>
+    <option value="asc">Ascending Population</option>
+  </select>
+
+  <br><br>
+  
+  <input type="String" id="stateSearch" name="stateSearch" placeholder="State Name">
+  <div id="statesContainer"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
